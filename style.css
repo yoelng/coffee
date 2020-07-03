@@ -1,0 +1,16 @@
+#coffee{
+    background-image: url(img/coffee.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    background-position: center;
+}
+h1{
+    font-family: 'Leckerli One', cursive;
+    color: white;
+    padding-top: 150px;
+}
+h2,h3,p{
+    color: white;
+    font-family: 'Leckerli One', cursive;
+}
