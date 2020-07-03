@@ -19,3 +19,12 @@ h4,p{
     font-family: 'Condiment', cursive;
     
 }
+nav{
+    padding-left: 350px;
+    background-color: black;
+    backface-visibility: inherit;
+   
+}
+a{
+    padding: 20px;
+}
