@@ -4,6 +4,8 @@
     background-repeat: no-repeat;
     height: 80vh;
     background-position: center;
+    
+    
 }
 h1{
     font-family: 'Leckerli One', cursive;
@@ -27,4 +29,24 @@ nav{
 }
 a{
     padding: 20px;
+}
+#bun{
+    padding-top: 50px;
+}
+#contact{
+    background-color: pink;
+}
+#footer{
+    background-color:gray;
+    height: 60vh;
+    text-align: center;
+    padding: 50px;
+}
+#fb{
+    font-size: 50px;
+    padding: 50px;
+    
+    border: solid 1px green;
+    cursor: pointer;
+    
 }
