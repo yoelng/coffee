@@ -10,7 +10,12 @@ h1{
     color: white;
     padding-top: 150px;
 }
-h2,h3,p{
+h2,h3,h5{
     color: white;
     font-family: 'Leckerli One', cursive;
+}
+h4,p{
+    color: blue;
+    font-family: 'Condiment', cursive;
+    
 }
